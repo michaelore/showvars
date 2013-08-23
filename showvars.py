@@ -23,4 +23,4 @@ class ShowVars(object):
                 showdict[k] = v
                 self.hide(k, v)
         pprint(showdict)
-        print
+        print()
